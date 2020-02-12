@@ -18,11 +18,11 @@ https://coolors.co/5dfdcb-fcfcfc-f4e04d-4cd4e0-90d7ff
 }
 
 .container .left_column {
-	flex-grow: 1
+	flex: 33%;
 }
 
 .container .right_column {
-	flex-grow: 2
+	flex: 66%;
 }
 
 .avatar {

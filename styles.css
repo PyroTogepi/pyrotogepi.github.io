@@ -1,3 +1,32 @@
 /* pyrotogepi.github.io
 Author: Shavina Chau
+https://coolors.co/5dfdcb-fcfcfc-f4e04d-4cd4e0-90d7ff
 */
+
+.header {
+	background-color: #4cd4e0;
+	padding: 20px 10px;
+	display: flex;
+}
+
+.header a {
+	border-radius: 4px
+}
+
+.container {
+	display: flex;
+}
+
+.container .left_column {
+	flex-grow: 1
+}
+
+.container .right_column {
+	flex-grow: 2
+}
+
+.avatar {
+	width: 500px;
+	height: 500px;
+	border-radius: 50%
+}
